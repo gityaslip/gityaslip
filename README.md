@@ -35,5 +35,5 @@
 
 
 <p>
-   <a src="https://www.yaslip.com.br"> <img align="center" src="https://yaslip.com.br/imagens-y/logonome.png" alt="gityaslip" /></a>
+   <a href="https://www.yaslip.com.br"> <img align="center" src="https://yaslip.com.br/imagens-y/logonome.png" alt="gityaslip" /></a>
 </p>
