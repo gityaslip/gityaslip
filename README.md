@@ -1,9 +1,8 @@
 <h1 align="center">Olá👋, somos a Yaslip</h1>
 <h3 align="center">A Yaslip é uma agência de Marketing Operacional para Internet voltada para sites de busca.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gityaslip&label=Profile%20views&color=0e75b6&style=flat" alt="gityaslip" /> </p> <p align
-
-="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gityaslip" alt="gityaslip" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gityaslip&label=Profile%20views&color=0e75b6&style=flat" alt="gityaslip" /> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gityaslip" alt="gityaslip" /></a> </p>
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
@@ -15,4 +14,4 @@
 
 <p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=gityaslip&show_icons=true&locale=en" alt="gityaslip" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gityaslip&" alt="gityaslip" /></p>
+<p><img align="center" src="https://yaslip.com.br/imagens-y/logonome.png" alt="gityaslip" /></p>
